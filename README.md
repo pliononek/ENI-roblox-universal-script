@@ -57,7 +57,3 @@ Works in **any Roblox game** that doesn't aggressively block Instance creation o
 - **Bring Player**: Click the red **BRING** button next to a player's name
 
 &gt; ⚠️ **Bring** may not work in games with strong server-side anti-cheat. It works best in tycoons, simulators, and building games.
-
----
-
-## 🖼️ GUI Preview
